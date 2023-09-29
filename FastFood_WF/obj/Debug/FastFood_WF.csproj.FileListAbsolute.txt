@@ -1,0 +1,13 @@
+C:\Dev\C#\Windows Forms\FastFood_WF\FastFood_WF\bin\Debug\FastFood_WF.exe.config
+C:\Dev\C#\Windows Forms\FastFood_WF\FastFood_WF\bin\Debug\FastFood_WF.exe
+C:\Dev\C#\Windows Forms\FastFood_WF\FastFood_WF\bin\Debug\FastFood_WF.pdb
+C:\Dev\C#\Windows Forms\FastFood_WF\FastFood_WF\obj\Debug\FastFood_WF.csproj.AssemblyReference.cache
+C:\Dev\C#\Windows Forms\FastFood_WF\FastFood_WF\obj\Debug\FastFood_WF.csproj.SuggestedBindingRedirects.cache
+C:\Dev\C#\Windows Forms\FastFood_WF\FastFood_WF\obj\Debug\FastFood_WF.Form1.resources
+C:\Dev\C#\Windows Forms\FastFood_WF\FastFood_WF\obj\Debug\FastFood_WF.Properties.Resources.resources
+C:\Dev\C#\Windows Forms\FastFood_WF\FastFood_WF\obj\Debug\FastFood_WF.csproj.GenerateResource.cache
+C:\Dev\C#\Windows Forms\FastFood_WF\FastFood_WF\obj\Debug\FastFood_WF.csproj.CoreCompileInputs.cache
+C:\Dev\C#\Windows Forms\FastFood_WF\FastFood_WF\obj\Debug\FastFood_WF.exe
+C:\Dev\C#\Windows Forms\FastFood_WF\FastFood_WF\obj\Debug\FastFood_WF.pdb
+C:\Dev\C#\Windows Forms\FastFood_WF\FastFood_WF\obj\Debug\FastFood_WF.FirstCustomControl.resources
+C:\Dev\C#\Windows Forms\FastFood_WF\FastFood_WF\obj\Debug\FastFood_WF.MySecondCustmControl.resources
